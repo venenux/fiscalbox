@@ -1,0 +1,1 @@
+A gambas hardware<->software translator that can implement as a hub for POS devices
